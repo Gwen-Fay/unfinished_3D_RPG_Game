@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/TemplateWoman.obj-f413410c0fd4a65423fa269ca11fa5b3.mesh"
+
+[deps]
+
+files=[ "res://.import/TemplateWoman.obj-f413410c0fd4a65423fa269ca11fa5b3.mesh" ]
+
+source_file="res://BlenderFiles/TemplateWoman.obj"
+dest_files=[ "res://.import/TemplateWoman.obj-f413410c0fd4a65423fa269ca11fa5b3.mesh", "res://.import/TemplateWoman.obj-f413410c0fd4a65423fa269ca11fa5b3.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

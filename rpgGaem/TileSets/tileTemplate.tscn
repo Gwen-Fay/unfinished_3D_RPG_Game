@@ -1,0 +1,225 @@
+[gd_scene load_steps=40 format=2]
+
+[ext_resource path="res://TileMeshes/Blue/8_blue.obj" type="ArrayMesh" id=1]
+[ext_resource path="res://TileMeshes/Green/6_green.obj" type="ArrayMesh" id=2]
+[ext_resource path="res://TileMeshes/Blue/10_blue.obj" type="ArrayMesh" id=3]
+[ext_resource path="res://TileMeshes/Green/0_green.obj" type="ArrayMesh" id=4]
+[ext_resource path="res://TileMeshes/Blue/6_blue.obj" type="ArrayMesh" id=5]
+[ext_resource path="res://TileMeshes/Blue/0_blue.obj" type="ArrayMesh" id=6]
+[ext_resource path="res://TileMeshes/Blue/4_blue.obj" type="ArrayMesh" id=7]
+[ext_resource path="res://TileMeshes/Blue/2_blue.obj" type="ArrayMesh" id=8]
+[ext_resource path="res://TileMeshes/Green/10_green.obj" type="ArrayMesh" id=9]
+[ext_resource path="res://TileMeshes/Red/7_red.obj" type="ArrayMesh" id=10]
+[ext_resource path="res://TileMeshes/Red/2_red.obj" type="ArrayMesh" id=11]
+[ext_resource path="res://TileMeshes/Green/1_green.obj" type="ArrayMesh" id=12]
+[ext_resource path="res://TileMeshes/Red/10_red.obj" type="ArrayMesh" id=13]
+[ext_resource path="res://TileMeshes/Green/4_green.obj" type="ArrayMesh" id=14]
+[ext_resource path="res://TileMeshes/Green/7_green.obj" type="ArrayMesh" id=15]
+[ext_resource path="res://TileMeshes/Blue/3_blue.obj" type="ArrayMesh" id=16]
+[ext_resource path="res://TileMeshes/Blue/5_blue.obj" type="ArrayMesh" id=17]
+[ext_resource path="res://TileMeshes/Green/3_green.obj" type="ArrayMesh" id=18]
+[ext_resource path="res://TileMeshes/Blue/7_blue.obj" type="ArrayMesh" id=19]
+[ext_resource path="res://TileMeshes/Red/8_red.obj" type="ArrayMesh" id=20]
+[ext_resource path="res://TileMeshes/Red/3_red.obj" type="ArrayMesh" id=21]
+[ext_resource path="res://TileMeshes/Blue/9_blue.obj" type="ArrayMesh" id=22]
+[ext_resource path="res://TileMeshes/Red/1_red.obj" type="ArrayMesh" id=23]
+[ext_resource path="res://TileMeshes/Blue/1_blue.obj" type="ArrayMesh" id=24]
+[ext_resource path="res://TileMeshes/Green/5_green.obj" type="ArrayMesh" id=25]
+[ext_resource path="res://TileMeshes/Red/4_red.obj" type="ArrayMesh" id=26]
+[ext_resource path="res://TileMeshes/Green/2_green.obj" type="ArrayMesh" id=27]
+[ext_resource path="res://TileMeshes/Green/9_green.obj" type="ArrayMesh" id=28]
+[ext_resource path="res://TileMeshes/Red/5_red.obj" type="ArrayMesh" id=29]
+[ext_resource path="res://TileMeshes/Red/9_red.obj" type="ArrayMesh" id=30]
+[ext_resource path="res://TileMeshes/Red/0_red.obj" type="ArrayMesh" id=31]
+[ext_resource path="res://TileMeshes/Red/6_red.obj" type="ArrayMesh" id=32]
+[ext_resource path="res://TileMeshes/Green/8_green.obj" type="ArrayMesh" id=33]
+[ext_resource path="res://TileMeshes/Blue/12_blue.obj" type="ArrayMesh" id=34]
+[ext_resource path="res://TileMeshes/Blue/11_blue.obj" type="ArrayMesh" id=35]
+[ext_resource path="res://TileMeshes/Red/11_red.obj" type="ArrayMesh" id=36]
+[ext_resource path="res://TileMeshes/Green/12_green.obj" type="ArrayMesh" id=37]
+[ext_resource path="res://TileMeshes/Red/12_red.obj" type="ArrayMesh" id=38]
+[ext_resource path="res://TileMeshes/Green/11_green.obj" type="ArrayMesh" id=39]
+
+[node name="Spatial" type="Spatial"]
+
+[node name="0_blue" type="MeshInstance" parent="."]
+mesh = ExtResource( 6 )
+material/0 = null
+
+[node name="1_blue" type="MeshInstance" parent="."]
+mesh = ExtResource( 24 )
+material/0 = null
+
+[node name="2_blue" type="MeshInstance" parent="."]
+mesh = ExtResource( 8 )
+material/0 = null
+
+[node name="3_blue" type="MeshInstance" parent="."]
+mesh = ExtResource( 16 )
+material/0 = null
+
+[node name="4_blue" type="MeshInstance" parent="."]
+mesh = ExtResource( 7 )
+material/0 = null
+
+[node name="5_blue" type="MeshInstance" parent="."]
+mesh = ExtResource( 17 )
+material/0 = null
+
+[node name="6_blue" type="MeshInstance" parent="."]
+mesh = ExtResource( 5 )
+material/0 = null
+
+[node name="7_blue" type="MeshInstance" parent="."]
+mesh = ExtResource( 19 )
+material/0 = null
+
+[node name="8_blue" type="MeshInstance" parent="."]
+mesh = ExtResource( 1 )
+material/0 = null
+
+[node name="9_blue" type="MeshInstance" parent="."]
+mesh = ExtResource( 22 )
+material/0 = null
+
+[node name="10_blue" type="MeshInstance" parent="."]
+mesh = ExtResource( 3 )
+material/0 = null
+
+[node name="11_blue" type="MeshInstance" parent="."]
+mesh = ExtResource( 35 )
+material/0 = null
+
+[node name="12_blue" type="MeshInstance" parent="."]
+mesh = ExtResource( 34 )
+material/0 = null
+
+[node name="0_green" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1 )
+mesh = ExtResource( 4 )
+material/0 = null
+
+[node name="1_green" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1 )
+mesh = ExtResource( 12 )
+material/0 = null
+
+[node name="2_green" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1 )
+mesh = ExtResource( 27 )
+material/0 = null
+
+[node name="3_green" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1 )
+mesh = ExtResource( 18 )
+material/0 = null
+
+[node name="4_green" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1 )
+mesh = ExtResource( 14 )
+material/0 = null
+
+[node name="5_green" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1 )
+mesh = ExtResource( 25 )
+material/0 = null
+
+[node name="6_green" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1 )
+mesh = ExtResource( 2 )
+material/0 = null
+
+[node name="7_green" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1 )
+mesh = ExtResource( 15 )
+material/0 = null
+
+[node name="8_green" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1 )
+mesh = ExtResource( 33 )
+material/0 = null
+
+[node name="9_green" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1 )
+mesh = ExtResource( 28 )
+material/0 = null
+
+[node name="10_green" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1 )
+mesh = ExtResource( 9 )
+material/0 = null
+
+[node name="11_green" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1 )
+mesh = ExtResource( 39 )
+material/0 = null
+
+[node name="12_green" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1 )
+mesh = ExtResource( 37 )
+material/0 = null
+
+[node name="0_red" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2 )
+mesh = ExtResource( 31 )
+material/0 = null
+
+[node name="1_red" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2 )
+mesh = ExtResource( 23 )
+material/0 = null
+
+[node name="2_red" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2 )
+mesh = ExtResource( 11 )
+material/0 = null
+
+[node name="3_red" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2 )
+mesh = ExtResource( 21 )
+material/0 = null
+
+[node name="4_red" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2 )
+mesh = ExtResource( 26 )
+material/0 = null
+
+[node name="5_red" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2 )
+mesh = ExtResource( 29 )
+material/0 = null
+
+[node name="6_red" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2 )
+mesh = ExtResource( 32 )
+material/0 = null
+
+[node name="7_red" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2 )
+mesh = ExtResource( 10 )
+material/0 = null
+
+[node name="8_red" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2 )
+mesh = ExtResource( 20 )
+material/0 = null
+
+[node name="9_red" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2 )
+mesh = ExtResource( 30 )
+material/0 = null
+
+[node name="10_red" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2 )
+mesh = ExtResource( 13 )
+material/0 = null
+
+[node name="11_red" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2 )
+mesh = ExtResource( 36 )
+material/0 = null
+
+[node name="12_red" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2 )
+mesh = ExtResource( 38 )
+material/0 = null

@@ -1,0 +1,11 @@
+[gd_resource type="SpatialMaterial" load_steps=2 format=2]
+
+[ext_resource path="res://signNormal.png" type="Texture" id=1]
+
+
+[resource]
+flags_transparent = true
+flags_albedo_tex_force_srgb = true
+normal_enabled = true
+normal_scale = 1.0
+normal_texture = ExtResource( 1 )

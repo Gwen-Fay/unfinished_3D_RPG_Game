@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/10_stone.obj-ab1113275501b806a246b0a3f2f2e558.mesh"
+
+[deps]
+
+files=[ "res://.import/10_stone.obj-ab1113275501b806a246b0a3f2f2e558.mesh" ]
+
+source_file="res://TileMeshes/Stone/10_stone.obj"
+dest_files=[ "res://.import/10_stone.obj-ab1113275501b806a246b0a3f2f2e558.mesh", "res://.import/10_stone.obj-ab1113275501b806a246b0a3f2f2e558.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

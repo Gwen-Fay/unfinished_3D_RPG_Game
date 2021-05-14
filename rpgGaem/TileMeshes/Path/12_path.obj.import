@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/12_path.obj-9ce239f067f8c44599f8197bfab765a1.mesh"
+
+[deps]
+
+files=[ "res://.import/12_path.obj-9ce239f067f8c44599f8197bfab765a1.mesh" ]
+
+source_file="res://TileMeshes/Path/12_path.obj"
+dest_files=[ "res://.import/12_path.obj-9ce239f067f8c44599f8197bfab765a1.mesh", "res://.import/12_path.obj-9ce239f067f8c44599f8197bfab765a1.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

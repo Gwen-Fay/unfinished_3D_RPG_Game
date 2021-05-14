@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/12_red.obj-f8244f32eeecace7dbb50a9f0c494075.mesh"
+
+[deps]
+
+files=[ "res://.import/12_red.obj-f8244f32eeecace7dbb50a9f0c494075.mesh" ]
+
+source_file="res://TileMeshes/Red/12_red.obj"
+dest_files=[ "res://.import/12_red.obj-f8244f32eeecace7dbb50a9f0c494075.mesh", "res://.import/12_red.obj-f8244f32eeecace7dbb50a9f0c494075.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

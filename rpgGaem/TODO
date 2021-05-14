@@ -1,0 +1,22 @@
+TODO FILE:
+
+Convert Space Gaem to Card RPG Gaem
+        
+    Possible Problem with unsolvable A* paths
+        
+    redesign Dialogue UI
+    Update Tiles (remove rgb, add flat walls)
+    Redo template model, make M and F template
+    
+Card Battle Screen
+    UI
+    Working Combat
+    Transitioning between combat and overworld
+
+Inventory Screen
+    UI
+    Editing Deck
+    Interaction between menu and overworld
+
+Level Transition
+Battle Transition

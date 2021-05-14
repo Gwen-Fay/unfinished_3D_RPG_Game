@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/7_blue.obj-5c856a031500dd67f827ffa0e9d22d59.mesh"
+
+[deps]
+
+files=[ "res://.import/7_blue.obj-5c856a031500dd67f827ffa0e9d22d59.mesh" ]
+
+source_file="res://TileMeshes/Blue/7_blue.obj"
+dest_files=[ "res://.import/7_blue.obj-5c856a031500dd67f827ffa0e9d22d59.mesh", "res://.import/7_blue.obj-5c856a031500dd67f827ffa0e9d22d59.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
