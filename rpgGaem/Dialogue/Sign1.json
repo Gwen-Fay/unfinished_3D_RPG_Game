@@ -1,6 +1,6 @@
 [
     {"name":"Sign", "face":"norm","text":"Hi this is the tutorial."},
-    {"name":"Sign", "face":"norm","text":"Well, more acurately, this is a development test. I have no idea if any of this shit will work."},
+    {"name":"Sign", "face":"norm","text":"Well, more acurately, this is a development test. I have no idea if any of this stuff will work."},
     {"effect":"angry"},
     {"name":"Sign", "face":"angry","text":"SO DON'T BREAK ANYTHING!!!"},
     {"name":"Sign", "face":"norm","text":"Do you understand?"},
@@ -10,7 +10,7 @@
         {"name":"Sign", "face":"norm","text":"I'm glad that we understand eachother"}
         ],
     "1":[
-        {"name":"Sign", "face":"angry","text":"FUCK YOU!!!"}
+        {"name":"Sign", "face":"angry","text":"I HATE YOU!!!"}
         ]
     },
     {"name":"Sign", "face":"norm","text":"Goodbye."},
